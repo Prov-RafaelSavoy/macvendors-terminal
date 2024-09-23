@@ -1,4 +1,4 @@
-# macvendors-terminal
+# MacVendors Terminal
 
 Get vendor of MAC directly from terminal, without need access webpage.
 
