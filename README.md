@@ -1,8 +1,6 @@
 # macvendors-terminal
 
-## Use
-
-Get vendor of MAC without directly from terminal, without need access webpage.
+Get vendor of MAC directly from terminal, without need access webpage.
 
 ```
 $ macvendor b8:af:67:21:33:f1
