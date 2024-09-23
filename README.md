@@ -33,4 +33,4 @@ macvendor b8:af:67:21:33:f1
 Hewlett Packard
 ```
 
-![Alt text]([images/example.png](https://provsolutions.com.br/wp-content/uploads/2023/06/logo-site-prov-aprovada-2.png))
+![Alt text](https://provsolutions.com.br/wp-content/uploads/2023/06/logo-site-prov-aprovada-2.png)
