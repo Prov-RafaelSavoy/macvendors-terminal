@@ -15,6 +15,11 @@ Hewlett Packard
 
 1 - Download the file
 
+```
+git clone https://github.com/Prov-RafaelSavoy/macvendors-terminal.git
+```
+
+
 2 - Move file to /etc/bin/
 
 ```
