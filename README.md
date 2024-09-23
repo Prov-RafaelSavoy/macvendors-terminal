@@ -7,22 +7,23 @@ $ macvendor b8:af:67:21:33:f1
 Hewlett Packard
 ```
 
+#### Requirements
 
+- Curl: https://curl.se/
 
 ## Installation
 
-### Requirements
-
-Curl: https://curl.se/
-
 1 - Download the file
-
-Gitclone 
 
 2 - Move file to /etc/bin/
 
-sudo mv macvendors /etc/bin/macvendors
+```
+sudo mv macvendor /etc/bin/
+```
 
 3 - Use!
 
-macvendors
+```
+macvendor b8:af:67:21:33:f1
+Hewlett Packard
+```
