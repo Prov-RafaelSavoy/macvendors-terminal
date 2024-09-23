@@ -1,0 +1,6 @@
+#!/bin/bash
+
+CURL='/usr/bin/curl'
+RVMHTTP="https://api.macvendors.com/${1}"
+
+echo "$($CURL -s $RVMHTTP)"
